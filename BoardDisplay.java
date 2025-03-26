@@ -9,16 +9,6 @@ import java.util.Random;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 
-/******************
- * BoardDisplay class
- * 
- * Creates the GUI framework of the Wordsearch
- * 
- * 
- * @inherits JButton
- * @author Sarah Chan
- *
- ******************/
 
 public class BoardDisplay implements ActionListener {
 
