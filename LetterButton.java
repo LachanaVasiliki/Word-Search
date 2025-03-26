@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package tryjava3rdomadiki;
 
 import java.awt.Color;
@@ -18,10 +13,7 @@ import javax.swing.JButton;
  * 
  * Customized JButton that contain a single letter the x and y position it is in the Wordsearch
  * Button also changes s
- * 
  * @inherits JButton
- * @author Sarah Chan
- *
  ******************/
 
 public class LetterButton extends JButton{
