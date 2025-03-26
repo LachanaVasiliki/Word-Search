@@ -13,9 +13,6 @@ import java.util.Random;
  * 
  * Reads in a text file and stores it as a dictionary
  * Randomly generates words from the dictionary without repetition
- * 
- * @author Sarah Chan
- *
  *******************/
 
 public class WordGenerator {
