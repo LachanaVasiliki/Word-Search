@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package tryjava3rdomadiki;
 
 import java.util.ArrayList;
@@ -14,9 +9,6 @@ import java.util.Random;
  * 
  * Uses the WordGenerator class to generate random words
  * Arrange the words randomly in a wordsearch board which is represented by a 2D String array
- * 
- * @author Sarah Chan
- *
  ******************/
 
 public class WordsearchGenerator {
